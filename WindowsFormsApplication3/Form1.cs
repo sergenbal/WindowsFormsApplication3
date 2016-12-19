@@ -9,13 +9,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//sbal
+
 //KNN ALGORİTMASI classifty
 namespace WindowsFormsApplication3
 {
     public partial class Form1 : Form
     {
-        int degisken;
+        
         List<Koordinat> koordinatliste = new List<Koordinat>();
        
         public Form1()
