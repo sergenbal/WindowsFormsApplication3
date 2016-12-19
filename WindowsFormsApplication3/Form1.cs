@@ -31,16 +31,16 @@ namespace WindowsFormsApplication3
             Koordinat kor3 = new Koordinat();
             Koordinat kor4 = new Koordinat();
 
-            kor1.X = 7; kor1.Y = 7; kor1.Sinif = "sinif1";
+            kor1.X = 4; kor1.Y = 3; kor1.Sinif = "sinif1";
             koordinatliste.Add(kor1);
 
-            kor2.X = 7; kor2.Y = 4; kor2.Sinif = "sinif1";
+            kor2.X = 1; kor2.Y = 2; kor2.Sinif = "sinif1";
             koordinatliste.Add(kor2);
 
-            kor3.X = 3; kor3.Y = 4; kor3.Sinif = "sinif2";
+            kor3.X = 9; kor3.Y = 5; kor3.Sinif = "sinif2";
             koordinatliste.Add(kor3);
 
-            kor4.X = 1; kor4.Y = 4; kor4.Sinif = "sinif2";
+            kor4.X = 5; kor4.Y = 5; kor4.Sinif = "sinif2";
             koordinatliste.Add(kor4);
 
             //listeyi görüntüleme
